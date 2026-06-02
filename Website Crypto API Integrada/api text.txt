@@ -1,0 +1,25 @@
+Usar a Web para fazer uma requisiçao de uma api de criptomoedas
+
+Objetivos
+1- fazer requisição de uma api de bitcoin
+2- Manipular os valores da Api
+3- Exibir os dados numa pagina web
+
+Requisitos
+Editor de tecto
+possuir uma conta de desenvolvedor no coin market cap
+
+
+Passos
+- Criação da conta no coin market cap
+- Resgatar a Api Key
+
+passo 2 - codigo
+
+criar requisiçao get utilizando metodo fetch disponivel no javascript
+tratamento de erros com (responseok) - fazer exibiçao do erro da mensagem
+resposta da Api : (Moesif Orign & Cors) adicionar a extensao
+
+passo 3 - Front End
+Bootstrap CDN.com (layout respinsivel)
+Exibir os dados da Api 
